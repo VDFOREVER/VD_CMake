@@ -1,0 +1,3 @@
+E:/git/VD_CMake/build/CMakeFiles/VD_CMake.dir
+E:/git/VD_CMake/build/CMakeFiles/ALL_BUILD.dir
+E:/git/VD_CMake/build/CMakeFiles/ZERO_CHECK.dir
