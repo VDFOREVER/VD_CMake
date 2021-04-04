@@ -1,3 +1,7 @@
 E:/git/VD_CMake/build/CMakeFiles/VD_CMake.dir
 E:/git/VD_CMake/build/CMakeFiles/ALL_BUILD.dir
 E:/git/VD_CMake/build/CMakeFiles/ZERO_CHECK.dir
+E:/git/VD_CMake/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+E:/git/VD_CMake/build/external/glfw/src/CMakeFiles/glfw.dir
+E:/git/VD_CMake/build/external/glad/CMakeFiles/glad.dir
+E:/git/VD_CMake/build/external/glad/CMakeFiles/ALL_BUILD.dir
